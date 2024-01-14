@@ -1,0 +1,139 @@
+H:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+H:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+H:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+H:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+H:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+H:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassServices.dll
+H:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+H:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassInterface.dll
+H:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassModels.dll
+H:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+H:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassInterface.pdb
+H:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+H:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.dll
+H:\webapi\שעור4\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+H:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+H:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
+H:\webapi\שעור4\ClassServices\bin\Debug\net6.0\FileService.dll
+H:\webapi\שעור4\ClassServices\bin\Debug\net6.0\FileService.pdb
+E:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+E:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassServices.dll
+E:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+E:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassInterface.dll
+E:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassModels.dll
+E:\webapi\שעור4\ClassServices\bin\Debug\net6.0\FileService.dll
+E:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+E:\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassInterface.pdb
+E:\webapi\שעור4\ClassServices\bin\Debug\net6.0\FileService.pdb
+E:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+E:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+E:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+E:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+E:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+E:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.dll
+E:\webapi\שעור4\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+E:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+E:\webapi\שעור4\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
+D:\שנה ב\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+D:\שנה ב\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassServices.dll
+D:\שנה ב\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+D:\שנה ב\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassInterface.dll
+D:\שנה ב\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassModels.dll
+D:\שנה ב\webapi\שעור4\ClassServices\bin\Debug\net6.0\FileService.dll
+D:\שנה ב\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+D:\שנה ב\webapi\שעור4\ClassServices\bin\Debug\net6.0\ClassInterface.pdb
+D:\שנה ב\webapi\שעור4\ClassServices\bin\Debug\net6.0\FileService.pdb
+D:\שנה ב\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+D:\שנה ב\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+D:\שנה ב\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+D:\שנה ב\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+D:\שנה ב\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+D:\שנה ב\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.dll
+D:\שנה ב\webapi\שעור4\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+D:\שנה ב\webapi\שעור4\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+D:\שנה ב\webapi\שעור4\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
+H:\webapi\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.dll
+H:\webapi\שעור5\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+H:\webapi\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+H:\webapi\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+H:\webapi\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+H:\webapi\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+H:\webapi\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+H:\webapi\שעור5\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+H:\webapi\שעור5\ClassServices\bin\Debug\net6.0\ClassServices.dll
+H:\webapi\שעור5\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+H:\webapi\שעור5\ClassServices\bin\Debug\net6.0\ClassInterface.dll
+H:\webapi\שעור5\ClassServices\bin\Debug\net6.0\ClassModels.dll
+H:\webapi\שעור5\ClassServices\bin\Debug\net6.0\FileService.dll
+H:\webapi\שעור5\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+H:\webapi\שעור5\ClassServices\bin\Debug\net6.0\ClassInterface.pdb
+H:\webapi\שעור5\ClassServices\bin\Debug\net6.0\FileService.pdb
+H:\webapi\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+H:\webapi\שעור5\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
+E:\שעור5\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+E:\שעור5\ClassServices\bin\Debug\net6.0\ClassServices.dll
+E:\שעור5\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+E:\שעור5\ClassServices\bin\Debug\net6.0\ClassInterface.dll
+E:\שעור5\ClassServices\bin\Debug\net6.0\ClassModels.dll
+E:\שעור5\ClassServices\bin\Debug\net6.0\FileService.dll
+E:\שעור5\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+E:\שעור5\ClassServices\bin\Debug\net6.0\ClassInterface.pdb
+E:\שעור5\ClassServices\bin\Debug\net6.0\FileService.pdb
+E:\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+E:\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+E:\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+E:\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+E:\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+E:\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.dll
+E:\שעור5\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+E:\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+E:\שעור5\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
+F:\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.dll
+F:\שעור5\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+F:\שעור5\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.dll
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+H:\webapi\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.dll
+H:\webapi\אילה - WebApi\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+H:\webapi\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+H:\webapi\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+H:\webapi\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+H:\webapi\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+H:\webapi\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+H:\webapi\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+H:\webapi\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassServices.dll
+H:\webapi\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+H:\webapi\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassInterface.dll
+H:\webapi\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassModels.dll
+H:\webapi\אילה - WebApi\ClassServices\bin\Debug\net6.0\FileService.dll
+H:\webapi\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+H:\webapi\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassInterface.pdb
+H:\webapi\אילה - WebApi\ClassServices\bin\Debug\net6.0\FileService.pdb
+H:\webapi\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+H:\webapi\אילה - WebApi\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
+E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.dll
+E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+E:\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+E:\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassServices.dll
+E:\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+E:\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassInterface.dll
+E:\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassModels.dll
+E:\אילה - WebApi\ClassServices\bin\Debug\net6.0\FileService.dll
+E:\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+E:\אילה - WebApi\ClassServices\bin\Debug\net6.0\ClassInterface.pdb
+E:\אילה - WebApi\ClassServices\bin\Debug\net6.0\FileService.pdb
+E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll

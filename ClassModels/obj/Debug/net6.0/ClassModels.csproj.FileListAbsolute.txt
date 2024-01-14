@@ -1,0 +1,108 @@
+H:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+H:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+H:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+H:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+H:\webapi\שעור4\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+H:\webapi\שעור4\ClassModels\bin\Debug\net6.0\ClassModels.dll
+H:\webapi\שעור4\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+H:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.dll
+H:\webapi\שעור4\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+H:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+H:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+E:\webapi\שעור4\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+E:\webapi\שעור4\ClassModels\bin\Debug\net6.0\ClassModels.dll
+E:\webapi\שעור4\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+E:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+E:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+E:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+E:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+E:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.dll
+E:\webapi\שעור4\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+E:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+E:\webapi\שעור4\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+D:\שנה ב\webapi\שעור4\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+D:\שנה ב\webapi\שעור4\ClassModels\bin\Debug\net6.0\ClassModels.dll
+D:\שנה ב\webapi\שעור4\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+D:\שנה ב\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+D:\שנה ב\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+D:\שנה ב\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+D:\שנה ב\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+D:\שנה ב\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.dll
+D:\שנה ב\webapi\שעור4\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+D:\שנה ב\webapi\שעור4\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+D:\שנה ב\webapi\שעור4\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+H:\webapi\שעור5\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+H:\webapi\שעור5\ClassModels\bin\Debug\net6.0\ClassModels.dll
+H:\webapi\שעור5\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+H:\webapi\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+H:\webapi\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+H:\webapi\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+H:\webapi\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+H:\webapi\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.dll
+H:\webapi\שעור5\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+H:\webapi\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+H:\webapi\שעור5\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+E:\שעור5\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+E:\שעור5\ClassModels\bin\Debug\net6.0\ClassModels.dll
+E:\שעור5\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+E:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+E:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+E:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+E:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+E:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.dll
+E:\שעור5\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+E:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+E:\שעור5\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+F:\שעור5\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+F:\שעור5\ClassModels\bin\Debug\net6.0\ClassModels.dll
+F:\שעור5\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+F:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+F:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+F:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+F:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+F:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.dll
+F:\שעור5\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+F:\שעור5\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+F:\שעור5\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassModels\bin\Debug\net6.0\ClassModels.dll
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.dll
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+H:\webapi\אילה - WebApi\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+H:\webapi\אילה - WebApi\ClassModels\bin\Debug\net6.0\ClassModels.dll
+H:\webapi\אילה - WebApi\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+H:\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+H:\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+H:\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+H:\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+H:\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.dll
+H:\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+H:\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+H:\webapi\אילה - WebApi\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+E:\אילה - WebApi\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+E:\אילה - WebApi\ClassModels\bin\Debug\net6.0\ClassModels.dll
+E:\אילה - WebApi\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+E:\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+E:\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+E:\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+E:\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+E:\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.dll
+E:\אילה - WebApi\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+E:\אילה - WebApi\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+E:\אילה - WebApi\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll

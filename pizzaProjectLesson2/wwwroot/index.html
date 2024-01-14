@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pizza</title>
+    <link rel="stylesheet" href="./c.css">
+</head>
+<body>
+<table>
+    <thead id="pizzahead">
+
+    </thead>
+    <tbody id="pizzabody">
+<br>
+    </tbody>
+</table>
+<button type="button" onclick="getAllPizzas()" id="idForGet">All</button>
+<br>
+<br>
+<button onclick="getById()">for getting pizza by id insert here</button>
+<label for="sendGetById">
+    <input type="number" name="byId" id="sendGetById">
+</label>
+
+
+<fieldset>
+    <legend>create pizza</legend>
+    name: <input type="text" id="createName">
+    price: <input type="number" name="createPrice" id="createPrice">
+    is gluten? <input type="radio" name="createGluten" id="createGluten">
+    <button onclick="create()">fot creating insert here</button>
+</fieldset>
+<br>
+<fieldset>
+    <legend>change pizza</legend>
+    id of pizza: <input type="number" name="id" id="changeId">
+    the new name: <input type="text" name="name" id="changeName">
+    price of pizza: <input type="number" name="price" id="changePrice">
+    is gluten? <input type="radio" name="gluten" id="changeGluten">
+    <button onclick="change()">for change press here</button>
+</fieldset>
+<br>
+<label for="deleteById">
+    <input type="number" name="deleteById" id="deleteById">
+</label>
+<button onclick="deleteById()">delete by id</button>
+</body>
+<script src="./client.js" asp-append-version="true"></script>
+</html>

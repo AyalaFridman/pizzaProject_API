@@ -1,0 +1,121 @@
+H:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.AssemblyReference.cache
+H:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfoInputs.cache
+H:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfo.cs
+H:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CoreCompileInputs.cache
+H:\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassInterface.deps.json
+H:\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassInterface.dll
+H:\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassInterface.pdb
+H:\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassModels.dll
+H:\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassModels.pdb
+H:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CopyComplete
+H:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.dll
+H:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\refint\ClassInterface.dll
+H:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.pdb
+H:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ref\ClassInterface.dll
+E:\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassInterface.deps.json
+E:\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassInterface.dll
+E:\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassInterface.pdb
+E:\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassModels.dll
+E:\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassModels.pdb
+E:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.AssemblyReference.cache
+E:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfoInputs.cache
+E:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfo.cs
+E:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CoreCompileInputs.cache
+E:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CopyComplete
+E:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.dll
+E:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\refint\ClassInterface.dll
+E:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.pdb
+E:\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ref\ClassInterface.dll
+D:\שנה ב\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassInterface.deps.json
+D:\שנה ב\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassInterface.dll
+D:\שנה ב\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassInterface.pdb
+D:\שנה ב\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassModels.dll
+D:\שנה ב\webapi\שעור4\ClassInterface\bin\Debug\net6.0\ClassModels.pdb
+D:\שנה ב\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.AssemblyReference.cache
+D:\שנה ב\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfoInputs.cache
+D:\שנה ב\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfo.cs
+D:\שנה ב\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CoreCompileInputs.cache
+D:\שנה ב\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CopyComplete
+D:\שנה ב\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.dll
+D:\שנה ב\webapi\שעור4\ClassInterface\obj\Debug\net6.0\refint\ClassInterface.dll
+D:\שנה ב\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ClassInterface.pdb
+D:\שנה ב\webapi\שעור4\ClassInterface\obj\Debug\net6.0\ref\ClassInterface.dll
+H:\webapi\שעור5\ClassInterface\bin\Debug\net6.0\ClassInterface.deps.json
+H:\webapi\שעור5\ClassInterface\bin\Debug\net6.0\ClassInterface.dll
+H:\webapi\שעור5\ClassInterface\bin\Debug\net6.0\ClassInterface.pdb
+H:\webapi\שעור5\ClassInterface\bin\Debug\net6.0\ClassModels.dll
+H:\webapi\שעור5\ClassInterface\bin\Debug\net6.0\ClassModels.pdb
+H:\webapi\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.AssemblyReference.cache
+H:\webapi\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfoInputs.cache
+H:\webapi\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfo.cs
+H:\webapi\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CoreCompileInputs.cache
+H:\webapi\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CopyComplete
+H:\webapi\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.dll
+H:\webapi\שעור5\ClassInterface\obj\Debug\net6.0\refint\ClassInterface.dll
+H:\webapi\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.pdb
+H:\webapi\שעור5\ClassInterface\obj\Debug\net6.0\ref\ClassInterface.dll
+E:\שעור5\ClassInterface\bin\Debug\net6.0\ClassInterface.deps.json
+E:\שעור5\ClassInterface\bin\Debug\net6.0\ClassInterface.dll
+E:\שעור5\ClassInterface\bin\Debug\net6.0\ClassInterface.pdb
+E:\שעור5\ClassInterface\bin\Debug\net6.0\ClassModels.dll
+E:\שעור5\ClassInterface\bin\Debug\net6.0\ClassModels.pdb
+E:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.AssemblyReference.cache
+E:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfoInputs.cache
+E:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfo.cs
+E:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CoreCompileInputs.cache
+E:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CopyComplete
+E:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.dll
+E:\שעור5\ClassInterface\obj\Debug\net6.0\refint\ClassInterface.dll
+E:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.pdb
+E:\שעור5\ClassInterface\obj\Debug\net6.0\ref\ClassInterface.dll
+F:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.AssemblyReference.cache
+F:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.GeneratedMSBuildEditorConfig.editorconfig
+F:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfoInputs.cache
+F:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfo.cs
+F:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CoreCompileInputs.cache
+F:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.dll
+F:\שעור5\ClassInterface\obj\Debug\net6.0\refint\ClassInterface.dll
+F:\שעור5\ClassInterface\obj\Debug\net6.0\ClassInterface.pdb
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.AssemblyReference.cache
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.GeneratedMSBuildEditorConfig.editorconfig
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfoInputs.cache
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfo.cs
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CoreCompileInputs.cache
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.dll
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\refint\ClassInterface.dll
+Y:\פרידמן אילה\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.pdb
+H:\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.AssemblyReference.cache
+H:\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfoInputs.cache
+H:\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfo.cs
+H:\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CoreCompileInputs.cache
+H:\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.dll
+H:\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\refint\ClassInterface.dll
+H:\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.pdb
+H:\webapi\אילה - WebApi\ClassInterface\bin\Debug\net6.0\ClassInterface.deps.json
+H:\webapi\אילה - WebApi\ClassInterface\bin\Debug\net6.0\ClassInterface.dll
+H:\webapi\אילה - WebApi\ClassInterface\bin\Debug\net6.0\ClassInterface.pdb
+H:\webapi\אילה - WebApi\ClassInterface\bin\Debug\net6.0\ClassModels.dll
+H:\webapi\אילה - WebApi\ClassInterface\bin\Debug\net6.0\ClassModels.pdb
+H:\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CopyComplete
+H:\webapi\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ref\ClassInterface.dll
+E:\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.AssemblyReference.cache
+E:\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfoInputs.cache
+E:\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfo.cs
+E:\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CoreCompileInputs.cache
+E:\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.dll
+E:\אילה - WebApi\ClassInterface\obj\Debug\net6.0\refint\ClassInterface.dll
+E:\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.pdb
+E:\אילה - WebApi\ClassInterface\bin\Debug\net6.0\ClassInterface.deps.json
+E:\אילה - WebApi\ClassInterface\bin\Debug\net6.0\ClassInterface.dll
+E:\אילה - WebApi\ClassInterface\bin\Debug\net6.0\ClassInterface.pdb
+E:\אילה - WebApi\ClassInterface\bin\Debug\net6.0\ClassModels.dll
+E:\אילה - WebApi\ClassInterface\bin\Debug\net6.0\ClassModels.pdb
+E:\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CopyComplete
+E:\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ref\ClassInterface.dll

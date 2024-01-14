@@ -1,0 +1,128 @@
+/* button {
+    font-size: 13px;
+    font-weight: bold;
+    font-weight: 500;
+    letter-spacing: 0;
+    text-transform: capitalize;
+    line-height: 24px;
+    padding: 0 15px;
+    background: #00ceab;
+    border-radius: 14px;
+}
+button:hover{
+    background-color: rgb(225, 246, 248);
+}
+fieldset{
+    background-color: rgb(225, 246, 248);
+
+}
+table{
+    border: black 1px solid;
+} */
+
+
+
+
+
+body{
+    align-items: center;
+    text-align: center;
+    background-image: url(./פיצה/מגש\ פיצה.jpg);
+    /* background-size: 100vw; */
+}
+button {
+    background-color: rgb(107, 28, 15); 
+    color: white;
+    font-weight: bold;
+    border-radius: 0.5vw;
+    margin: 0.7vw;
+    width: 8vw;
+    font-size: 1.2vw;
+}
+button:hover{
+    background-color: white;
+    color: rgb(107, 28, 15);
+    border: 0.2vw solid rgb(107, 28, 15);
+}
+#buttons{
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+table{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5vw;
+    margin: 1.5vw;
+}
+#pizzabody{
+    font-size: 1vw;
+}
+th{
+    color:rgb(107, 28, 15) ;
+
+}
+td{
+    padding: 0.5vw;
+    font-size: 1.2vw;
+    border : black 1px solid;
+
+}
+
+/* #idForGet{
+    display: none;
+} */
+/* #sendGetById{
+    display: none;
+} */
+
+#details{
+    display: flex;
+    flex-direction: row;
+}
+#name{
+    display: none; 
+}
+#id{
+    display: none; 
+}
+#gluten{
+    display: none; 
+}
+#send{
+    display: none; 
+}
+
+#detailsChange{
+    display: flex;
+    flex-direction: row;
+}
+#nameChange{
+    display: none; 
+}
+#idChange{
+    display: none; 
+}
+#glutenChange{
+    display: none; 
+}
+#sendChange{
+    display: none;
+}
+
+#idDelete{
+    display: none;
+}
+
+#delete{
+    display: none;
+}
+
+#s{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

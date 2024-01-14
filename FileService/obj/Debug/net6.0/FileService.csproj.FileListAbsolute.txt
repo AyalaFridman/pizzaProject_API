@@ -1,0 +1,108 @@
+H:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+H:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+H:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+H:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+H:\webapi\שעור4\FileService\bin\Debug\net6.0\FileService.deps.json
+H:\webapi\שעור4\FileService\bin\Debug\net6.0\FileService.dll
+H:\webapi\שעור4\FileService\bin\Debug\net6.0\FileService.pdb
+H:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.dll
+H:\webapi\שעור4\FileService\obj\Debug\net6.0\refint\FileService.dll
+H:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.pdb
+H:\webapi\שעור4\FileService\obj\Debug\net6.0\ref\FileService.dll
+E:\webapi\שעור4\FileService\bin\Debug\net6.0\FileService.deps.json
+E:\webapi\שעור4\FileService\bin\Debug\net6.0\FileService.dll
+E:\webapi\שעור4\FileService\bin\Debug\net6.0\FileService.pdb
+E:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+E:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+E:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+E:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+E:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+E:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.dll
+E:\webapi\שעור4\FileService\obj\Debug\net6.0\refint\FileService.dll
+E:\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.pdb
+E:\webapi\שעור4\FileService\obj\Debug\net6.0\ref\FileService.dll
+D:\שנה ב\webapi\שעור4\FileService\bin\Debug\net6.0\FileService.deps.json
+D:\שנה ב\webapi\שעור4\FileService\bin\Debug\net6.0\FileService.dll
+D:\שנה ב\webapi\שעור4\FileService\bin\Debug\net6.0\FileService.pdb
+D:\שנה ב\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+D:\שנה ב\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+D:\שנה ב\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+D:\שנה ב\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+D:\שנה ב\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.dll
+D:\שנה ב\webapi\שעור4\FileService\obj\Debug\net6.0\refint\FileService.dll
+D:\שנה ב\webapi\שעור4\FileService\obj\Debug\net6.0\FileService.pdb
+D:\שנה ב\webapi\שעור4\FileService\obj\Debug\net6.0\ref\FileService.dll
+H:\webapi\שעור5\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+H:\webapi\שעור5\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\שעור5\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+H:\webapi\שעור5\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+H:\webapi\שעור5\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+H:\webapi\שעור5\FileService\obj\Debug\net6.0\FileService.dll
+H:\webapi\שעור5\FileService\obj\Debug\net6.0\refint\FileService.dll
+H:\webapi\שעור5\FileService\obj\Debug\net6.0\FileService.pdb
+H:\webapi\שעור5\FileService\bin\Debug\net6.0\FileService.deps.json
+H:\webapi\שעור5\FileService\bin\Debug\net6.0\FileService.dll
+H:\webapi\שעור5\FileService\bin\Debug\net6.0\FileService.pdb
+H:\webapi\שעור5\FileService\obj\Debug\net6.0\ref\FileService.dll
+E:\שעור5\FileService\bin\Debug\net6.0\FileService.deps.json
+E:\שעור5\FileService\bin\Debug\net6.0\FileService.dll
+E:\שעור5\FileService\bin\Debug\net6.0\FileService.pdb
+E:\שעור5\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+E:\שעור5\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+E:\שעור5\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+E:\שעור5\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+E:\שעור5\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+E:\שעור5\FileService\obj\Debug\net6.0\FileService.dll
+E:\שעור5\FileService\obj\Debug\net6.0\refint\FileService.dll
+E:\שעור5\FileService\obj\Debug\net6.0\FileService.pdb
+E:\שעור5\FileService\obj\Debug\net6.0\ref\FileService.dll
+F:\שעור5\FileService\bin\Debug\net6.0\FileService.deps.json
+F:\שעור5\FileService\bin\Debug\net6.0\FileService.dll
+F:\שעור5\FileService\bin\Debug\net6.0\FileService.pdb
+F:\שעור5\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+F:\שעור5\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+F:\שעור5\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+F:\שעור5\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+F:\שעור5\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+F:\שעור5\FileService\obj\Debug\net6.0\FileService.dll
+F:\שעור5\FileService\obj\Debug\net6.0\refint\FileService.dll
+F:\שעור5\FileService\obj\Debug\net6.0\FileService.pdb
+F:\שעור5\FileService\obj\Debug\net6.0\ref\FileService.dll
+Y:\פרידמן אילה\webapi\אילה - WebApi\FileService\bin\Debug\net6.0\FileService.deps.json
+Y:\פרידמן אילה\webapi\אילה - WebApi\FileService\bin\Debug\net6.0\FileService.dll
+Y:\פרידמן אילה\webapi\אילה - WebApi\FileService\bin\Debug\net6.0\FileService.pdb
+Y:\פרידמן אילה\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+Y:\פרידמן אילה\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+Y:\פרידמן אילה\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+Y:\פרידמן אילה\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+Y:\פרידמן אילה\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+Y:\פרידמן אילה\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.dll
+Y:\פרידמן אילה\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\refint\FileService.dll
+Y:\פרידמן אילה\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.pdb
+Y:\פרידמן אילה\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\ref\FileService.dll
+H:\webapi\אילה - WebApi\FileService\bin\Debug\net6.0\FileService.deps.json
+H:\webapi\אילה - WebApi\FileService\bin\Debug\net6.0\FileService.dll
+H:\webapi\אילה - WebApi\FileService\bin\Debug\net6.0\FileService.pdb
+H:\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+H:\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+H:\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+H:\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+H:\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.dll
+H:\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\refint\FileService.dll
+H:\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.pdb
+H:\webapi\אילה - WebApi\FileService\obj\Debug\net6.0\ref\FileService.dll
+E:\אילה - WebApi\FileService\bin\Debug\net6.0\FileService.deps.json
+E:\אילה - WebApi\FileService\bin\Debug\net6.0\FileService.dll
+E:\אילה - WebApi\FileService\bin\Debug\net6.0\FileService.pdb
+E:\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+E:\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+E:\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+E:\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+E:\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+E:\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.dll
+E:\אילה - WebApi\FileService\obj\Debug\net6.0\refint\FileService.dll
+E:\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.pdb
+E:\אילה - WebApi\FileService\obj\Debug\net6.0\ref\FileService.dll
