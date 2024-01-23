@@ -1,7 +1,15 @@
 let  basicUrl='https://localhost:7170/';
-// let id=3;
+let Id=3;
 function getAllPizzas(){
-    fetch(`${basicUrl}Pizza`)
+    var myHeaders = new Headers();
+    var token=sessionStorage.getItem("token");
+    myHeaders.append("Authorization","Bearer "+token);
+    myHeaders.append("Content-Type", "application/json");
+    var requestOptions = {
+        method: "GET",
+        headers: myHeaders,
+    };
+    fetch(`${basicUrl}Pizza`,requestOptions)
     .then((res)=>res.json())
     .then((data)=>fillPizzaList(data))
     
@@ -30,7 +38,14 @@ function fillPizzaList(pizzaList){
 }
 function getById(){
     let id=document.getElementById("sendGetById").value;
-    fetch(`${basicUrl}Pizza/GetById/${id}`)
+    var myHeaders = new Headers();
+    var token=sessionStorage.getItem("token");
+    myHeaders.append("Authorization","Bearer "+token);
+    var requestOptions = {
+        method: "GET",
+        headers: myHeaders,
+    };
+    fetch(`${basicUrl}Pizza/GetById/${id}`,requestOptions)
     .then((res)=>res.json())
     .then((data)=>getPizzaById(data))
    
@@ -54,13 +69,14 @@ function getById(){
         tbody.innerHTML += tr;
     }
     function create(){
-    let id=getLength();
     let name = document.getElementById("createName").value;
     let price = document.getElementById("createPrice").value;
     let gluten = document.getElementById("createGluten").checked;
     var myHeaders = new Headers();
+    var token=sessionStorage.getItem("token");
+    myHeaders.append("Authorization","Bearer "+token);
     myHeaders.append("Content-Type", "application/json");
-    let json = `{ \"id\": \ ${id}\,\"name\": \" ${name}\", \"gluten\": \ ${gluten}\,\"price\": \ ${price}\}`;
+    let json = `{ \"name\": \" ${name}\", \"gluten\": \ ${gluten}\,\"price\": \ ${price}\}`;
     var requestOptions = {
         method: "POST",
         headers: myHeaders,
@@ -85,11 +101,16 @@ function change(){
     let name = document.getElementById("changeName").value;
     let price = document.getElementById("changePrice").value;
     let gluten = document.getElementById("changeGluten").checked;
+    var myHeaders = new Headers();
+    var token=sessionStorage.getItem("token");
+    myHeaders.append("Authorization","Bearer "+token);
+    myHeaders.append("Content-Type", "application/json");
 
     var raw=`{ \"id\": \ ${id}\,\"name\": \" ${name}\", \"gluten\": \ ${gluten}\,\"price\": \ ${price}\}`;
     var requestOptions={
         method:'PUT',
         body:raw,
+        headers:myHeaders,
         redirect:'follow'
     };
 
@@ -109,6 +130,8 @@ function change(){
 function deleteById(){
     let id=document.getElementById("deleteById").value;
     var myHeaders = new Headers();
+    var token=sessionStorage.getItem("token");
+    myHeaders.append("Authorization","Bearer "+token);
     myHeaders.append("Content-Type", "application/json");
 
     var requestOptions = {
@@ -123,6 +146,38 @@ function deleteById(){
 }
 function getLength(pizzaList){
 
-return pizzaList.Last().Id++;
+return pizzaList.Last().Id+1;
+
+}
+function login()
+{
+    sessionStorage.clear();
+   let name = document.getElementById("nameLogin").value;
+    let password = document.getElementById("passwordLogin").value;
+    // var pizzabody=document.getElementById('pizzabody');
+    // var pizzahead=document.getElementById('pizzahead');
+    // var workerbody=document.getElementById('workerbody');
+    // var workerhead=document.getElementById('workerhead');
+    // pizzahead.innerHTML="";
+    // pizzabody.innerHTML="";
+    // workerhead.innerHTML="";
+    // workerbody.innerHTML="";
+    var json=`{\"name"\:${name},\"password\"\:${password}}`;
+    var requestOptions=
+    {
+      method: "POST",
+      body:json,
+      redirect:'follow'
+
+    };
+    fetch(`${basicUrl}Login/${name}/${password}`,requestOptions)
+    .then((res)=>res.text())
+    .then((result)=>{
+        sessionStorage.setItem("token",result);
+        location.href="pizza.html";
+     })
+
+    .catch(err=>{console.log(err)})
+
 
 }

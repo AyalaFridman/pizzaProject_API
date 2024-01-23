@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\אילה - WebApi\\pizzaProjectLesson2\\pizzaProject.csproj": {}
+    "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\pizzaProject.csproj": {}
   },
   "projects": {
-    "E:\\אילה - WebApi\\ClassInterface\\ClassInterface.csproj": {
+    "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassInterface\\ClassInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\אילה - WebApi\\ClassInterface\\ClassInterface.csproj",
+        "projectUniqueName": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassInterface\\ClassInterface.csproj",
         "projectName": "ClassInterface",
-        "projectPath": "E:\\אילה - WebApi\\ClassInterface\\ClassInterface.csproj",
+        "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassInterface\\ClassInterface.csproj",
         "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-        "outputPath": "E:\\אילה - WebApi\\ClassInterface\\obj\\",
+        "outputPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassInterface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,8 +31,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj": {
-                "projectPath": "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj"
+              "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj": {
+                "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj": {
+    "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj",
+        "projectUniqueName": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj",
         "projectName": "ClassModels",
-        "projectPath": "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj",
+        "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj",
         "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-        "outputPath": "E:\\אילה - WebApi\\ClassModels\\obj\\",
+        "outputPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -136,14 +136,14 @@
         }
       }
     },
-    "E:\\אילה - WebApi\\ClassServices\\ClassServices.csproj": {
+    "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassServices\\ClassServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\אילה - WebApi\\ClassServices\\ClassServices.csproj",
+        "projectUniqueName": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassServices\\ClassServices.csproj",
         "projectName": "ClassServices",
-        "projectPath": "E:\\אילה - WebApi\\ClassServices\\ClassServices.csproj",
+        "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassServices\\ClassServices.csproj",
         "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-        "outputPath": "E:\\אילה - WebApi\\ClassServices\\obj\\",
+        "outputPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -163,14 +163,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\אילה - WebApi\\ClassInterface\\ClassInterface.csproj": {
-                "projectPath": "E:\\אילה - WebApi\\ClassInterface\\ClassInterface.csproj"
+              "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassInterface\\ClassInterface.csproj": {
+                "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassInterface\\ClassInterface.csproj"
               },
-              "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj": {
-                "projectPath": "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj"
+              "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj": {
+                "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj"
               },
-              "E:\\אילה - WebApi\\FileService\\FileService.csproj": {
-                "projectPath": "E:\\אילה - WebApi\\FileService\\FileService.csproj"
+              "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\FileService.csproj": {
+                "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\FileService.csproj"
               }
             }
           }
@@ -209,14 +209,14 @@
         }
       }
     },
-    "E:\\אילה - WebApi\\FileService\\FileService.csproj": {
+    "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\FileService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\אילה - WebApi\\FileService\\FileService.csproj",
+        "projectUniqueName": "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\FileService.csproj",
         "projectName": "FileService",
-        "projectPath": "E:\\אילה - WebApi\\FileService\\FileService.csproj",
+        "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\FileService.csproj",
         "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-        "outputPath": "E:\\אילה - WebApi\\FileService\\obj\\",
+        "outputPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -266,14 +266,14 @@
         }
       }
     },
-    "E:\\אילה - WebApi\\pizzaProjectLesson2\\pizzaProject.csproj": {
+    "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\pizzaProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\אילה - WebApi\\pizzaProjectLesson2\\pizzaProject.csproj",
+        "projectUniqueName": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\pizzaProject.csproj",
         "projectName": "pizzaProject",
-        "projectPath": "E:\\אילה - WebApi\\pizzaProjectLesson2\\pizzaProject.csproj",
+        "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\pizzaProject.csproj",
         "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-        "outputPath": "E:\\אילה - WebApi\\pizzaProjectLesson2\\obj\\",
+        "outputPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -293,17 +293,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\אילה - WebApi\\ClassInterface\\ClassInterface.csproj": {
-                "projectPath": "E:\\אילה - WebApi\\ClassInterface\\ClassInterface.csproj"
+              "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassInterface\\ClassInterface.csproj": {
+                "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassInterface\\ClassInterface.csproj"
               },
-              "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj": {
-                "projectPath": "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj"
+              "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj": {
+                "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj"
               },
-              "E:\\אילה - WebApi\\ClassServices\\ClassServices.csproj": {
-                "projectPath": "E:\\אילה - WebApi\\ClassServices\\ClassServices.csproj"
+              "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassServices\\ClassServices.csproj": {
+                "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassServices\\ClassServices.csproj"
               },
-              "E:\\אילה - WebApi\\FileService\\FileService.csproj": {
-                "projectPath": "E:\\אילה - WebApi\\FileService\\FileService.csproj"
+              "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\FileService.csproj": {
+                "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\FileService.csproj"
               }
             }
           }

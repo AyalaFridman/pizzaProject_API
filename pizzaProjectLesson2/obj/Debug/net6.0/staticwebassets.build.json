@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9q5lMJtm+9EHnZFSvxtBVAvpzji5InS/ek3/80sK9V0=",
+  "Hash": "ZqTF1epHkYIWeGj0I1aXeeiGjydMgNm8UmrwxtTg1vw=",
   "Source": "pizzaProject",
   "BasePath": "_content/pizzaProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "pizzaProject\\wwwroot",
       "Source": "pizzaProject",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\מגש פיצה.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\מגש פיצה.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/מגש פיצה.jpg",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\מגש פיצה.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\משולש פיצה.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\משולש פיצה.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/משולש פיצה.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\משולש פיצה.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 1.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 1.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 1.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 1.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 10.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 10.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 10.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 10.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 11.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 11.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 11.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 11.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 12.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 12.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 12.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 12.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 13.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 13.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 13.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 13.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 14.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 14.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 14.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 14.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 15.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 15.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 15.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 15.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 16.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 16.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 16.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 16.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 17.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 17.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 17.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 17.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 18.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 18.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 18.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 18.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 19.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 19.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 19.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 19.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 2.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 2.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 2.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 2.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 20.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 20.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 20.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 20.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 21.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 21.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 21.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 21.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 22.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 22.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 22.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 22.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 23.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 23.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 23.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 23.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 24.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 24.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 24.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 24.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 25.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 25.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 25.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 25.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 26.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 26.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 26.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 26.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 27.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 27.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 27.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 27.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 28.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 28.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 28.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 28.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 29.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 29.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 29.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 29.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 3.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 3.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 3.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 3.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 30.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 30.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 30.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 30.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 31.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 31.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 31.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 31.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 32.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 32.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 32.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 32.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 33.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 33.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 33.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 33.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 34.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 34.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 34.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 34.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 35.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 35.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 35.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 35.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 36.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 36.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 36.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 36.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 37.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 37.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 37.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 37.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 38.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 38.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 38.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 38.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 4.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 4.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 4.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 4.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 5.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 5.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 5.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 5.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 6.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 6.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 6.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 6.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 7.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 7.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 7.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 7.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 8.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 8.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 8.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 8.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 9.jpg",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 9.jpg",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/פיצה 9.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 9.jpg"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\פיצה\\Thumbs.db",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\Thumbs.db",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "פיצה/Thumbs.db",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\Thumbs.db"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\c.css",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\c.css",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "c.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\c.css"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\client.js",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\client.js",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "client.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\client.js"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\index.html",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\index.html",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -765,12 +765,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\jsLogin.js",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\pizza.html",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
-      "RelativePath": "jsLogin.js",
+      "RelativePath": "pizza.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -779,15 +779,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\jsLogin.js"
+      "OriginalItemSpec": "wwwroot\\pizza.html"
     },
     {
-      "Identity": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\login.html",
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\workerJs.js",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\אילה - WebApi\\pizzaProjectLesson2\\wwwroot\\",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
-      "RelativePath": "login.html",
+      "RelativePath": "workerJs.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -796,7 +796,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\login.html"
+      "OriginalItemSpec": "wwwroot\\workerJs.js"
     }
   ]
 }

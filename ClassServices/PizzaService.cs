@@ -15,19 +15,6 @@ namespace ClassServices
              Pizzas=_rw.Get<Pizza>(path);
              Date=DateTime.Now;
         }
-        // static int id = 3;
-        // readonly IfileService<Pizza> _rw;
-        // public PizzaService(IfileService<Pizza> rw;)
-        // {
-        //     this._rw=rw;
-        //     this.Date=DateTime.Now;
-        //     Pizzaes = new List<Pizza>()
-        //     {
-        //         new Pizza() { Name = "italkit", Gluten=false, Id=1, Price=55 },
-        //         new Pizza() { Name = "muztarela", Gluten=true, Id=2, Price=45 },
-        //         new Pizza() { Name = "orginal", Gluten=true, Id=3, Price=50 }
-        //     };
-        // }
         public List<Pizza> Get()
         {
             System.Console.WriteLine( "pizza: "+this.Date);

@@ -106,3 +106,15 @@ E:\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.dll
 E:\אילה - WebApi\FileService\obj\Debug\net6.0\refint\FileService.dll
 E:\אילה - WebApi\FileService\obj\Debug\net6.0\FileService.pdb
 E:\אילה - WebApi\FileService\obj\Debug\net6.0\ref\FileService.dll
+D:\שנה ב\webapi\pizzaProject_API\FileService\bin\Debug\net6.0\FileService.deps.json
+D:\שנה ב\webapi\pizzaProject_API\FileService\bin\Debug\net6.0\FileService.dll
+D:\שנה ב\webapi\pizzaProject_API\FileService\bin\Debug\net6.0\FileService.pdb
+D:\שנה ב\webapi\pizzaProject_API\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+D:\שנה ב\webapi\pizzaProject_API\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\webapi\pizzaProject_API\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+D:\שנה ב\webapi\pizzaProject_API\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+D:\שנה ב\webapi\pizzaProject_API\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+D:\שנה ב\webapi\pizzaProject_API\FileService\obj\Debug\net6.0\FileService.dll
+D:\שנה ב\webapi\pizzaProject_API\FileService\obj\Debug\net6.0\refint\FileService.dll
+D:\שנה ב\webapi\pizzaProject_API\FileService\obj\Debug\net6.0\FileService.pdb
+D:\שנה ב\webapi\pizzaProject_API\FileService\obj\Debug\net6.0\ref\FileService.dll

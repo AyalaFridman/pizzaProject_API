@@ -137,3 +137,22 @@ E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.c
 E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
 E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
 E:\אילה - WebApi\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\bin\Debug\net6.0\ClassServices.dll
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\bin\Debug\net6.0\ClassInterface.dll
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\bin\Debug\net6.0\ClassModels.dll
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\bin\Debug\net6.0\FileService.dll
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\bin\Debug\net6.0\ClassInterface.pdb
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\bin\Debug\net6.0\FileService.pdb
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\obj\Debug\net6.0\ClassServices.dll
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+D:\שנה ב\webapi\pizzaProject_API\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll

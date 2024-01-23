@@ -41,8 +41,8 @@ builder.Services.AddAuthentication(options =>
                 });
                 builder.Services.AddAuthorization(cfg =>
                 {
-                    cfg.AddPolicy("Admin", policy => policy.RequireClaim("role","admin"));
-                    cfg.AddPolicy("SupperWorker", policy => policy.RequireClaim("role","supperworker","admin"));
+                    cfg.AddPolicy("Admin", policy => policy.RequireClaim("http://schemas.microsoft.com/ws/2008/06/identity/claims/role","admin"));
+                    cfg.AddPolicy("Worker", policy => policy.RequireClaim("http://schemas.microsoft.com/ws/2008/06/identity/claims/role","worker","admin"));
                 });
                 builder.Services.AddEndpointsApiExplorer();
 
@@ -81,7 +81,7 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 
-
+app.UseHttpsRedirection();
 
 
 app.MapControllers();

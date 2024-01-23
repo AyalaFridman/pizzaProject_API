@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj": {}
+    "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj": {}
   },
   "projects": {
-    "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj": {
+    "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj",
+        "projectUniqueName": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj",
         "projectName": "ClassModels",
-        "projectPath": "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj",
+        "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj",
         "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-        "outputPath": "E:\\אילה - WebApi\\ClassModels\\obj\\",
+        "outputPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

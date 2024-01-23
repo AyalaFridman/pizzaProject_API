@@ -119,3 +119,18 @@ E:\אילה - WebApi\ClassInterface\bin\Debug\net6.0\ClassModels.dll
 E:\אילה - WebApi\ClassInterface\bin\Debug\net6.0\ClassModels.pdb
 E:\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CopyComplete
 E:\אילה - WebApi\ClassInterface\obj\Debug\net6.0\ref\ClassInterface.dll
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\bin\Debug\net6.0\ClassInterface.deps.json
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\bin\Debug\net6.0\ClassInterface.dll
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\bin\Debug\net6.0\ClassInterface.pdb
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\bin\Debug\net6.0\ClassModels.dll
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\bin\Debug\net6.0\ClassModels.pdb
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.AssemblyReference.cache
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\obj\Debug\net6.0\ClassInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfoInputs.cache
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\obj\Debug\net6.0\ClassInterface.AssemblyInfo.cs
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CoreCompileInputs.cache
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\obj\Debug\net6.0\ClassInterface.csproj.CopyComplete
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\obj\Debug\net6.0\ClassInterface.dll
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\obj\Debug\net6.0\refint\ClassInterface.dll
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\obj\Debug\net6.0\ClassInterface.pdb
+D:\שנה ב\webapi\pizzaProject_API\ClassInterface\obj\Debug\net6.0\ref\ClassInterface.dll

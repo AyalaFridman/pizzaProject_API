@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AZ2y8SG/Zvb1EiSmuAa93tbjSYOYNh34jIOMM6BIp2D+tN7oW47dnMp4zvdGkp4ABH3YPF372TnWeqxi6AaEQQ==",
+  "dgSpecHash": "xznGM4cf2rUENeI6IBxaEJqhIniJMxnvrpED46fSjuKGVufff81UZLRdSJGvR36nq9BqklXsyoz7Ab0WCSeQrg==",
   "success": true,
-  "projectFilePath": "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj",
+  "projectFilePath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

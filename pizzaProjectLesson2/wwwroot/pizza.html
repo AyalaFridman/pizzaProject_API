@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pizza</title>
+    <link rel="stylesheet" href="./c.css">
+</head>
+<body>
+
+<h1>pizza</h1>
+<table>
+    <thead id="pizzahead">
+
+    </thead>
+    <tbody id="pizzabody">
+
+    </tbody>
+</table>
+
+<button type="button" onclick="getAllPizzas()" id="idForGet">All</button>
+<br>
+<br>
+<button onclick="getById()">for getting pizza by id insert here</button>
+<label for="sendGetById">
+    <input type="number" name="byId" id="sendGetById">
+</label>
+
+
+<fieldset>
+    <legend>create pizza</legend>
+    name: <input type="text" id="createName">
+    price: <input type="number" name="createPrice" id="createPrice">
+    is gluten? <input type="radio" name="createGluten" id="createGluten">
+    <button onclick="create()">fot creating insert here</button>
+</fieldset>
+<br>
+<fieldset>
+    <legend>change pizza</legend>
+    id of pizza: <input type="number" name="id" id="changeId">
+    the new name: <input type="text" name="name" id="changeName">
+    price of pizza: <input type="number" name="price" id="changePrice">
+    is gluten? <input type="radio" name="gluten" id="changeGluten">
+    <button onclick="change()">for change press here</button>
+<br>
+</fieldset>
+<label for="deleteById">
+    <input type="number" name="deleteById" id="deleteById">
+</label>
+<button onclick="deleteById()">delete by id</button>
+<h1 id="path"></h1>
+<h1>worker</h1>
+<table>
+    <thead id="workerhead">
+
+    </thead>
+    <tbody id="workerbody">
+<br>
+    </tbody>
+</table>
+<button type="button" onclick="getAllWorker()" id="idForGet">All</button>
+<br>
+<fieldset >
+    <legend>create worker</legend>
+    the new name: <input type="text" name="name" id="changeNameWorker">
+    password: <input type="text" name="password" id="changePasswordWorker">
+    role: <input type="text" name="role" id="changeRoleWorker">
+    <button onclick="createWorker()">for create press here</button>
+<br>
+</fieldset>
+<label for="deleteById">
+    <input type="number" name="deleteById" id="deleteByIdWorker">
+</label>
+<button onclick="deleteByIdWorker()">delete by id</button>
+<br>
+<a href="./index.html">login</a>
+</body>
+<script src="./client.js" asp-append-version="true"></script>
+<script src="./workerJs.js" asp-append-version="true"></script>
+</html>

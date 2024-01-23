@@ -14,6 +14,7 @@ namespace pizzaProject.Controllers
 {
         [ApiController]
         [Route("[controller]")]
+        [Authorize(Policy = "Admin")]
     public class WorkerController : ControllerBase
     {
         private IWorker _worker;
@@ -27,7 +28,6 @@ namespace pizzaProject.Controllers
             return _worker.Get();
         }
         [HttpDelete("Delete/{id}")]
-        [Authorize(Policy = "supperWorker")]
         public ActionResult Delete(int id)
         {
             if (_worker.Delete(id) == null)
@@ -38,7 +38,6 @@ namespace pizzaProject.Controllers
              return Ok();
         }
         [HttpPost]
-        [Authorize(Policy = "admin")]
             public void Post(Worker w)
             {
             //  string r=_worker.printRole(w);

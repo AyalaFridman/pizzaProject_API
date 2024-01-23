@@ -1041,11 +1041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\אילה - WebApi\\ClassServices\\ClassServices.csproj",
+      "projectUniqueName": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassServices\\ClassServices.csproj",
       "projectName": "ClassServices",
-      "projectPath": "E:\\אילה - WebApi\\ClassServices\\ClassServices.csproj",
+      "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassServices\\ClassServices.csproj",
       "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-      "outputPath": "E:\\אילה - WebApi\\ClassServices\\obj\\",
+      "outputPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1065,14 +1065,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\אילה - WebApi\\ClassInterface\\ClassInterface.csproj": {
-              "projectPath": "E:\\אילה - WebApi\\ClassInterface\\ClassInterface.csproj"
+            "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassInterface\\ClassInterface.csproj": {
+              "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassInterface\\ClassInterface.csproj"
             },
-            "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj": {
-              "projectPath": "E:\\אילה - WebApi\\ClassModels\\ClassModels.csproj"
+            "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj": {
+              "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj"
             },
-            "E:\\אילה - WebApi\\FileService\\FileService.csproj": {
-              "projectPath": "E:\\אילה - WebApi\\FileService\\FileService.csproj"
+            "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\FileService.csproj": {
+              "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\FileService.csproj"
             }
           }
         }

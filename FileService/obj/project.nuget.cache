@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2aq3a8djmA9ovhGItA6/eyvi6dzubg7uewF4IbYq/LHG4RhOujvqJj4PtgRmyk/0BNs0urwkmbPzsTdK47kEVg==",
+  "dgSpecHash": "5l+wbgSgyV0EyUWF/vBq7mYAAnCZ9snIKEIMBpb3ImGeKBxwJrUsX6efn9XIMxpa/1qEm0sSTXH5hd4G0VGbpg==",
   "success": true,
-  "projectFilePath": "E:\\אילה - WebApi\\FileService\\FileService.csproj",
+  "projectFilePath": "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\FileService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

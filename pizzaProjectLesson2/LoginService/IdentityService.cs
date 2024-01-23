@@ -44,7 +44,7 @@ public static SecurityToken GetToken(List<Claim> claims)=>
             return null;
         List<Claim> claims=new List<Claim>
         {
-        new Claim("UserType",existWorker.Role.ToString())
+        new Claim("http://schemas.microsoft.com/ws/2008/06/identity/claims/role",existWorker.Role.ToString())
         };
     var token =GetToken(claims);
     return token;
