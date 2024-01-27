@@ -149,35 +149,148 @@ function getLength(pizzaList){
 return pizzaList.Last().Id+1;
 
 }
-function login()
-{
-    sessionStorage.clear();
-   let name = document.getElementById("nameLogin").value;
-    let password = document.getElementById("passwordLogin").value;
-    // var pizzabody=document.getElementById('pizzabody');
-    // var pizzahead=document.getElementById('pizzahead');
-    // var workerbody=document.getElementById('workerbody');
-    // var workerhead=document.getElementById('workerhead');
-    // pizzahead.innerHTML="";
-    // pizzabody.innerHTML="";
-    // workerhead.innerHTML="";
-    // workerbody.innerHTML="";
-    var json=`{\"name"\:${name},\"password\"\:${password}}`;
-    var requestOptions=
-    {
-      method: "POST",
-      body:json,
-      redirect:'follow'
 
+//worker
+let  basicUrlWorker='https://localhost:7170/Worker';
+function getAllWorker(){
+    var myHeaders = new Headers();
+    var token=sessionStorage.getItem("token");
+    myHeaders.append("Authorization","Bearer "+token);
+    myHeaders.append("Content-Type", "application/json");
+    var requestOptions = {
+        method: "GET",
+        headers: myHeaders,
     };
-    fetch(`${basicUrl}Login/${name}/${password}`,requestOptions)
-    .then((res)=>res.text())
-    .then((result)=>{
-        sessionStorage.setItem("token",result);
-        location.href="pizza.html";
-     })
-
-    .catch(err=>{console.log(err)})
-
-
+    fetch(`${basicUrlWorker}`,requestOptions)
+    .then((res)=>res.json())
+    .then((data)=>fillWorkerList(data))
+    
+    .catch(eror=>{console.log(eror)})
 }
+function fillWorkerList(workerList){
+    var workerbody=document.getElementById('workerbody');
+    var workerhead=document.getElementById('workerhead');
+    workerbody.innerHTML="";
+    workerhead.innerHTML=
+    `<tr>
+    <th>id</th>
+    <th>name</th>
+    <th>password</th>
+    <th>role</th>
+</tr>`;
+workerList.forEach(Worker=>{
+    workerbody.innerHTML+=`<tr>
+        <td>${Worker.id}</td>
+        <td>${Worker.name}</td>
+        <td>${Worker.password}</td>
+        <td>${Worker.role}</td>
+        </tr>`
+        
+    });
+}
+    function createWorker(){
+    let name = document.getElementById("changeNameWorker").value;
+    let password = document.getElementById("changePasswordWorker").value;
+    let role = document.getElementById("changeRoleWorker").value;
+    var myHeaders = new Headers();
+    var token=sessionStorage.getItem("token");
+    myHeaders.append("Authorization","Bearer "+token);
+    myHeaders.append("Content-Type", "application/json");
+    let json = `{ \"name\": \" ${name}\", \"password\": \ ${password}\,\"role\": \ ${role}\}`;
+    var requestOptions = {
+        method: "POST",
+        headers: myHeaders,
+        body: json,
+        redirect: "follow",
+    };
+    fetch(`${basicUrlWorker}`,requestOptions)
+    .then((response) => response.text())
+    .then((result)=>{
+        if(result.includes("400")){
+            alert("faild to add!!")
+            Id++;
+        }
+        else{
+            alert("wowwwwwwwwwwwwwwwwwwwwwwww");
+        }
+    })
+    .catch(err=>{console.log(err)})
+}
+
+function deleteByIdWorker(){
+    let id=document.getElementById("deleteByIdWorker").value;
+    var myHeaders = new Headers();
+    var token=sessionStorage.getItem("token");
+    myHeaders.append("Authorization","Bearer "+token);
+    myHeaders.append("Content-Type", "application/json");
+
+    var requestOptions = {
+        method: "DELETE",
+        headers: myHeaders,
+        redirect: "follow",
+    };
+
+    fetch(`${basicUrlWorker}/Delete/${id}`,requestOptions)
+    .then((res) => res.json()) 
+    .catch(err=>{console.log(err)})
+}
+
+//order
+
+function createOrder()
+{
+    let phone=document.getElementById("phone").value;
+    let numOfCredit = document.getElementById("numOfCredit").value;
+    let validity = document.getElementById("validity").value;
+    let threeDigits = document.getElementById("threeDigits").value;
+    var myHeaders = new Headers();
+    var token=sessionStorage.getItem("token");
+    myHeaders.append("Authorization","Bearer "+token);
+    myHeaders.append("Content-Type", "application/json");
+    let json = `{ \"phone\": \" ${phone}\", \"numOfCredit\": \ ${numOfCredit}\,\"validity\": \ ${validity}\,\"threeDigits\": \ ${threeDigits}}`;
+    var requestOptions = {
+        method: "POST",
+        headers: myHeaders,
+        body: json,
+        redirect: "follow",
+    };
+    fetch(`${basicUrl}Order`,requestOptions)
+    .then((response) => response.text())
+    .then((result)=>{
+        if(result.includes("400")){
+            alert("faild to add!!")
+            Id++;
+        }
+        else{
+            alert("wowwwwwwwwwwwwwwwwwwwwwwww");
+        }
+    })
+    .catch(err=>{console.log(err)})
+}
+function addPizza()
+{
+    let idPizza=document.getElementById("idOfPizza").value;
+    let amount = document.getElementById("amount").value;
+    myHeaders.append("Content-Type", "application/json");
+    let json = `{ \"idOrder\": \ ${validity}\"idOfPizza\": \" ${idPizza}\", \"amount\": \ ${amount}}`;
+    var requestOptions = {
+        method: "POST",
+        headers: myHeaders,
+        body: json,
+        redirect: "follow",
+    };
+    fetch(`${basicUrl}Order/"postItem/${idOrder}/${idPizza}/${amount}`,requestOptions)
+    .then((response) => response.text())
+    .then((result)=>{
+        if(result.includes("400")){
+            alert("faild to add!!")
+            Id++;
+        }
+        else{
+            alert("wowwwwwwwwwwwwwwwwwwwwwwww");
+        }
+    })
+    .catch(err=>{console.log(err)})
+}
+
+

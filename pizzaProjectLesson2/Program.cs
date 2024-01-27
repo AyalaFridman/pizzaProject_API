@@ -24,7 +24,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IPizza, PizzaService>();
-builder.Services.AddTransient<IOrder, OrderService>();
+builder.Services.AddSingleton<IOrder, OrderService>();
 builder.Services.AddScoped<IWorker, WorkerService>();
 builder.Services.AddSingleton<IFileService,ReadAndWrite>();
 builder.Services.AddSingleton<ILog,LogService>();

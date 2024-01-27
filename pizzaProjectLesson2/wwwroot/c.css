@@ -1,54 +1,26 @@
-/* button {
-    font-size: 13px;
-    font-weight: bold;
-    font-weight: 500;
-    letter-spacing: 0;
-    text-transform: capitalize;
-    line-height: 24px;
-    padding: 0 15px;
-    background: #00ceab;
-    border-radius: 14px;
-}
-button:hover{
-    background-color: rgb(225, 246, 248);
-}
-fieldset{
-    background-color: rgb(225, 246, 248);
-
-}
-table{
-    border: black 1px solid;
-} */
-
-
-
-
 
 body{
+    display: inline-flexbox;
     align-items: center;
     text-align: center;
-    background-image: url(./פיצה/מגש\ פיצה.jpg);
-    /* background-size: 100vw; */
+    background-image: url(./פיצה\ 9.jpg);
+    background-size: 100%;
 }
 button {
-    background-color: rgb(107, 28, 15); 
+    background-color:rgb(107, 28, 15); 
     color: white;
     font-weight: bold;
     border-radius: 0.5vw;
-    margin: 0.7vw;
-    width: 8vw;
+    margin: 0.5vw;
     font-size: 1.2vw;
+    padding: 0.7vw;
 }
-button:hover{
-    background-color: white;
-    color: rgb(107, 28, 15);
-    border: 0.2vw solid rgb(107, 28, 15);
-}
-/* #buttons{
+#buttons{
     display:flex;
     flex-direction: row-reverse;
     justify-content: center;
-} */
+    margin-top: 1vw;
+}
 table{
     display:flex;
     flex-direction: column;

@@ -1,0 +1,1 @@
+ [{"CustumrtId":0,"Phone":null,"Date":"0001-01-01T00:00:00","TotalAmount":0,"Items":null,"AmountItems":null,"CreditPaymentDetails":null},{"CustumrtId":1,"Phone":"gggg","Date":"2024-01-27T20:13:26.326334+02:00","TotalAmount":0,"Items":[0,3],"AmountItems":[0,2],"CreditPaymentDetails":{"NumOfCredit":"string","Validity":"string","Digits":0}}]

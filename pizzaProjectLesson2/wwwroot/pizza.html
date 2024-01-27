@@ -74,8 +74,24 @@
 </label>
 <button onclick="deleteByIdWorker()">delete by id</button>
 <br>
+<fieldset>
+    <h1>order</h1>
+    <label for="phone"> phone</label>
+    <input type="tel" id="phone">
+    <div id="pizzas">
+<input type="number">pizza  id
+<input type="number">totalAmount
+<button onclick="addPizza()"></button>
+    </div>
+    <p id="totalAmount">0 ₪</p>
+
+    <h1>:פרטי תשלום</h1>
+<input type="text" placeholder="מספר כרטיס" id="numOfCredit">
+<input type="datetime" placeholder="תוקף" id="validity">
+<input type="number" placeholder="3 ספרות בגב הכרטיס" id="threeDigits">
+<button onclick="createOrder()">to order</button>
+</fieldset>
 <a href="./index.html">login</a>
 </body>
 <script src="./client.js" asp-append-version="true"></script>
-<script src="./workerJs.js" asp-append-version="true"></script>
 </html>
