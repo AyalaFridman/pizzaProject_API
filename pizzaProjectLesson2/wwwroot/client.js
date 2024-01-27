@@ -249,7 +249,7 @@ function createOrder()
     myHeaders.append("Content-Type", "application/json");
     let json = `{ \"phone\": \" ${phone}\", \"numOfCredit\": \ ${numOfCredit}\,\"validity\": \ ${validity}\,\"threeDigits\": \ ${threeDigits}}`;
     var requestOptions = {
-        method: "POST",
+        method: "PUT",
         headers: myHeaders,
         body: json,
         redirect: "follow",
@@ -271,20 +271,20 @@ function addPizza()
 {
     let idPizza=document.getElementById("idOfPizza").value;
     let amount = document.getElementById("amount").value;
+    var myHeaders=new Headers();
     myHeaders.append("Content-Type", "application/json");
-    let json = `{ \"idOrder\": \ ${validity}\"idOfPizza\": \" ${idPizza}\", \"amount\": \ ${amount}}`;
+    let json = `{ \"idOfPizza\": \" ${idPizza}\", \"amount\": \ ${amount}}`;
     var requestOptions = {
         method: "POST",
         headers: myHeaders,
         body: json,
         redirect: "follow",
     };
-    fetch(`${basicUrl}Order/"postItem/${idOrder}/${idPizza}/${amount}`,requestOptions)
+    fetch(`${basicUrl}Order/postItem/${idPizza}/${amount}`,requestOptions)
     .then((response) => response.text())
     .then((result)=>{
         if(result.includes("400")){
-            alert("faild to add!!")
-            Id++;
+            alert(`faild to add!! ${result}`);
         }
         else{
             alert("wowwwwwwwwwwwwwwwwwwwwwwww");
