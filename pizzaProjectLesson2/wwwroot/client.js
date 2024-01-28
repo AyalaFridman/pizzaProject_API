@@ -296,7 +296,7 @@ function createOrder()
       }
     let json =JSON.stringify(data) ;
     var requestOptions = {
-        method: "PUT",
+        method: "POST",
         headers: myHeaders,
         body: json,
         redirect: "follow",
@@ -342,34 +342,9 @@ function createOrder()
 
 function addPizza()
 {
-<<<<<<< HEAD
    let idPizza=document.getElementById("idOfPizza").value;
    let amount = document.getElementById("amount").value; 
     pizzasId[pizzasId.length]=idPizza;
     AmountItems[AmountItems.length]=amount;
-=======
-    let idPizza=document.getElementById("idOfPizza").value;
-    let amount = document.getElementById("amount").value;
-    var myHeaders=new Headers();
-    myHeaders.append("Content-Type", "application/json");
-    let json = `{ \"idOfPizza\": \" ${idPizza}\", \"amount\": \ ${amount}}`;
-    var requestOptions = {
-        method: "POST",
-        headers: myHeaders,
-        body: json,
-        redirect: "follow",
-    };
-    fetch(`${basicUrl}Order/postItem/${idPizza}/${amount}`,requestOptions)
-    .then((response) => response.text())
-    .then((result)=>{
-        if(result.includes("400")){
-            alert(`faild to add!! ${result}`);
-        }
-        else{
-            alert("wowwwwwwwwwwwwwwwwwwwwwwww");
-        }
-    })
-    .catch(err=>{console.log(err)})
->>>>>>> eedbffc84a78c52ea3e8e84ba588bb03f53ed8e2
 }
 
