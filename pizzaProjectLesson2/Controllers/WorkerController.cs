@@ -38,11 +38,12 @@ namespace pizzaProject.Controllers
              return Ok();
         }
         [HttpPost]
-            public void Post(Worker w)
-            {
-            //  string r=_worker.printRole(w);
-                 _worker.AddWorker(w);
-            }
+        public void Post(Worker w)
+        {
+            var workerList=_worker.Get();
+            w.Id=workerList.Last<Worker>().Id+1;
+            _worker.AddWorker(w);
+        }
 
         }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZqTF1epHkYIWeGj0I1aXeeiGjydMgNm8UmrwxtTg1vw=",
+  "Hash": "kMe+4VoTy5sFFk6K+haM3j13Ol27UHoAYCsdyGwspLs=",
   "Source": "pizzaProject",
   "BasePath": "_content/pizzaProject",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה 9.jpg",
+      "SourceId": "pizzaProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
+      "BasePath": "_content/pizzaProject",
+      "RelativePath": "פיצה 9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\פיצה 9.jpg"
+    },
     {
       "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\מגש פיצה.jpg",
       "SourceId": "pizzaProject",
@@ -680,23 +697,6 @@
       "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 8.jpg"
     },
     {
-      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\פיצה 9.jpg",
-      "SourceId": "pizzaProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
-      "BasePath": "_content/pizzaProject",
-      "RelativePath": "פיצה/פיצה 9.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\פיצה\\פיצה 9.jpg"
-    },
-    {
       "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\פיצה\\Thumbs.db",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
@@ -765,6 +765,40 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\login.js",
+      "SourceId": "pizzaProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
+      "BasePath": "_content/pizzaProject",
+      "RelativePath": "login.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.js"
+    },
+    {
+      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\order.html",
+      "SourceId": "pizzaProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
+      "BasePath": "_content/pizzaProject",
+      "RelativePath": "order.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\order.html"
+    },
+    {
       "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\pizza.html",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
@@ -780,23 +814,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\pizza.html"
-    },
-    {
-      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\workerJs.js",
-      "SourceId": "pizzaProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
-      "BasePath": "_content/pizzaProject",
-      "RelativePath": "workerJs.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\workerJs.js"
     }
   ]
 }
