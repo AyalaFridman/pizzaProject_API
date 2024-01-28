@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\FileService.csproj",
+      "projectUniqueName": "D:\\שנה ב\\api\\פרויקטים להשוואה\\אילה פרידמן\\FileService\\FileService.csproj",
       "projectName": "FileService",
-      "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\FileService.csproj",
+      "projectPath": "D:\\שנה ב\\api\\פרויקטים להשוואה\\אילה פרידמן\\FileService\\FileService.csproj",
       "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-      "outputPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\FileService\\obj\\",
+      "outputPath": "D:\\שנה ב\\api\\פרויקטים להשוואה\\אילה פרידמן\\FileService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,6 +32,7 @@
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

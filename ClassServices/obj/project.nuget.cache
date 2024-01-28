@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ifo6dDZX7jCnRKutEDkcHPhtZSu/B7Bmit4HGL7pJsELXF9calQYjVDUZpUxbpY9Ae4BqKBZVi1YKLXKW2ERCw==",
+  "dgSpecHash": "PD4OqGVg1VMOWGJG7nD2JVEiaBul9bt2HigIip4WqKqXbwcuCCFEXc0mvDPeiT34J8oimbiD0WEtW5K930UyTA==",
   "success": true,
-  "projectFilePath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassServices\\ClassServices.csproj",
+  "projectFilePath": "D:\\שנה ב\\api\\פרויקטים להשוואה\\אילה פרידמן\\ClassServices\\ClassServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.4\\microsoft.aspnetcore.authentication.jwtbearer.5.0.4.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

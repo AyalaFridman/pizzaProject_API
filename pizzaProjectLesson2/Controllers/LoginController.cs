@@ -15,7 +15,7 @@ namespace pizzaProject.Controllers
             _ids = identityService;
         }
         [HttpPost("{name}/{password}")]
-        public ActionResult<string> Login(string name,string password)
+        public ActionResult<string> Login(string name, string password)
         {
             var token=_ids.Login(name,password);
             if(token==null)

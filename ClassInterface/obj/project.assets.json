@@ -1005,11 +1005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassInterface\\ClassInterface.csproj",
+      "projectUniqueName": "D:\\שנה ב\\api\\פרויקטים להשוואה\\אילה פרידמן\\ClassInterface\\ClassInterface.csproj",
       "projectName": "ClassInterface",
-      "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassInterface\\ClassInterface.csproj",
+      "projectPath": "D:\\שנה ב\\api\\פרויקטים להשוואה\\אילה פרידמן\\ClassInterface\\ClassInterface.csproj",
       "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-      "outputPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassInterface\\obj\\",
+      "outputPath": "D:\\שנה ב\\api\\פרויקטים להשוואה\\אילה פרידמן\\ClassInterface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1023,14 +1023,15 @@
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj": {
-              "projectPath": "D:\\שנה ב\\webapi\\pizzaProject_API\\ClassModels\\ClassModels.csproj"
+            "D:\\שנה ב\\api\\פרויקטים להשוואה\\אילה פרידמן\\ClassModels\\ClassModels.csproj": {
+              "projectPath": "D:\\שנה ב\\api\\פרויקטים להשוואה\\אילה פרידמן\\ClassModels\\ClassModels.csproj"
             }
           }
         }
