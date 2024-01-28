@@ -76,14 +76,24 @@
 <br>
 <fieldset>
     <h1>order</h1>
+    <table>
+        <thead id="orderhead">
+    
+        </thead>
+        <tbody id="orderbody">
+    <br>
+        </tbody>
+    </table>
+    <button type="button" onclick="getAllOrder()">All</button>
+    <br>
     <label for="phone"> phone</label>
     <input type="tel" id="phone">
     <div id="pizzas">
-<input type="number">pizza  id
-<input type="number">totalAmount
+        <input type="number" placeholder="מספר פיצה" id="idOfPizza">
+        <input type="number" placeholder="כמות" id="amount">
 <button onclick="addPizza()"></button>
     </div>
-    <p id="totalAmount">0 ₪</p>
+    <!-- <p id="totalAmount">0</p> -->
 
     <h1>:פרטי תשלום</h1>
 <input type="text" placeholder="מספר כרטיס" id="numOfCredit">

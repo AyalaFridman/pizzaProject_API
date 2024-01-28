@@ -5,14 +5,17 @@ namespace ClassModels
 {
     public class Order
     {
-        public int CustomerId { get; set; }
+        public int Id{get;set;}
+        public string Phone { get; set; }
         public DateTime Date { get; set; }
         public int TotalAmount { get; set; }
-        public List<Pizza> Items { get; set; }
-
-        public Order()
-        {
-            Items = new List<Pizza>();
-        }
+        public List<int> Items { get; set; }
+        public List<int> AmountItems{get; set;}
+        public PaymentDetails CreditPaymentDetails{get;set;}
     }
+        // public Order()
+        // {
+        //     Items = new List<Pizza>();
+        // }
+
 }

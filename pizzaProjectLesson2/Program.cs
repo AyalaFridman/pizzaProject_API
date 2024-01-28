@@ -18,6 +18,16 @@ using Microsoft.OpenApi.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+static async Task<string> payment(PaymentDetails paymentDetails)
+{
+    await Task.Delay(5000);
+    return "התשלום בוצע בהצלחה";
+}
+
+
+
+
+
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -48,7 +58,7 @@ builder.Services.AddAuthentication(options =>
 
            builder.Services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "core", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "😆😆pizza story😆😆", Version = "v1" });
                 c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
                 {
                     In = ParameterLocation.Header,
@@ -87,3 +97,4 @@ app.UseHttpsRedirection();
 app.MapControllers();
 app.UseActionLog();
 app.Run();
+

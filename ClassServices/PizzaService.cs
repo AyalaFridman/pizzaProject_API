@@ -6,7 +6,7 @@ namespace ClassServices
     public class PizzaService:IPizza
     {
         private IFileService _rw;
-        string path=Path.Combine(Environment.CurrentDirectory, "File", "myFile.json");
+        string path=Path.Combine(Environment.CurrentDirectory, "File", "pizza.json");
         public DateTime Date { get; set; }
         protected List<Pizza> Pizzas { get; set; }
         public PizzaService(IFileService rw)

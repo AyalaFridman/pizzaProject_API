@@ -236,7 +236,41 @@ function deleteByIdWorker(){
 }
 
 //order
-
+function getAllOrder(){
+    var myHeaders = new Headers();
+    // var token=sessionStorage.getItem("token");
+    // myHeaders.append("Authorization","Bearer "+token);
+    myHeaders.append("Content-Type", "application/json");
+    var requestOptions = {
+        method: "GET",
+        headers: myHeaders,
+    };
+    fetch(`${basicUrl}Order`,requestOptions)
+    .then((res)=>res.json())
+    .then((data)=>fillOrderList(data))
+    
+    .catch(eror=>{console.log(eror)})
+}
+function fillOrderList(orderList){
+    var orderbody=document.getElementById('orderbody');
+    var orderhead=document.getElementById('orderhead');
+    orderbody.innerHTML="";
+    orderhead.innerHTML=
+    `<tr>
+    <th>phone</th>
+    <th>date</th>
+    <th>total amount</th>
+</tr>`;
+orderList.forEach(Order=>{
+    orderbody.innerHTML+=`<tr>
+        <td>${Order.phone}</td>
+        <td>${Order.date}</td>
+        <td>${Order.totalAmount}</td>
+        </tr>`       
+    });
+}
+let pizzasId=[];
+let AmountItems=[];
 function createOrder()
 {
     let phone=document.getElementById("phone").value;
@@ -244,10 +278,23 @@ function createOrder()
     let validity = document.getElementById("validity").value;
     let threeDigits = document.getElementById("threeDigits").value;
     var myHeaders = new Headers();
-    var token=sessionStorage.getItem("token");
-    myHeaders.append("Authorization","Bearer "+token);
+    // var token=sessionStorage.getItem("token");
+    // myHeaders.append("Authorization","Bearer "+token);
     myHeaders.append("Content-Type", "application/json");
-    let json = `{ \"phone\": \" ${phone}\", \"numOfCredit\": \ ${numOfCredit}\,\"validity\": \ ${validity}\,\"threeDigits\": \ ${threeDigits}}`;
+    let data={
+        "id": 0,
+        "phone":phone ,
+        "date": "2024-01-28T18:45:37.219Z",
+        "totalAmount": 0,
+        "items":pizzasId ,
+        "amountItems":AmountItems,
+        "creditPaymentDetails": {
+          "numOfCredit": numOfCredit,
+          "validity": validity,
+          "digits": threeDigits
+        }
+      }
+    let json =JSON.stringify(data) ;
     var requestOptions = {
         method: "POST",
         headers: myHeaders,
@@ -267,30 +314,37 @@ function createOrder()
     })
     .catch(err=>{console.log(err)})
 }
+// function addPizza()
+// {
+//     let idPizza=document.getElementById("idOfPizza").value;
+//     let amount = document.getElementById("amount").value;
+//     var myHeaders=new Headers();
+//     myHeaders.append("Content-Type", "application/json");
+//     let json = `{ \"idOfPizza\": \" ${idPizza}\", \"amount\": \ ${amount}}`;
+//     var requestOptions = {
+//         method: "POST",
+//         headers: myHeaders,
+//         body: json,
+//         redirect: "follow",
+//     };
+//     fetch(`${basicUrl}Order/postItem/${idPizza}/${amount}`,requestOptions)
+//     .then((response) => response.text())
+//     .then((result)=>{
+//         if(result.includes("400")){
+//             alert(`faild to add!! ${result}`);
+//         }
+//         else{
+//             alert("wowwwwwwwwwwwwwwwwwwwwwwww");
+//         }
+//     })
+//     .catch(err=>{console.log(err)})
+// }
+
 function addPizza()
 {
-    let idPizza=document.getElementById("idOfPizza").value;
-    let amount = document.getElementById("amount").value;
-    myHeaders.append("Content-Type", "application/json");
-    let json = `{ \"idOrder\": \ ${validity}\"idOfPizza\": \" ${idPizza}\", \"amount\": \ ${amount}}`;
-    var requestOptions = {
-        method: "POST",
-        headers: myHeaders,
-        body: json,
-        redirect: "follow",
-    };
-    fetch(`${basicUrl}Order/"postItem/${idOrder}/${idPizza}/${amount}`,requestOptions)
-    .then((response) => response.text())
-    .then((result)=>{
-        if(result.includes("400")){
-            alert("faild to add!!")
-            Id++;
-        }
-        else{
-            alert("wowwwwwwwwwwwwwwwwwwwwwwww");
-        }
-    })
-    .catch(err=>{console.log(err)})
+   let idPizza=document.getElementById("idOfPizza").value;
+   let amount = document.getElementById("amount").value; 
+    pizzasId[pizzasId.length]=idPizza;
+    AmountItems[AmountItems.length]=amount;
 }
-
 
