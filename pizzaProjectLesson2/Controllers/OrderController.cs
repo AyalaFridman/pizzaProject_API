@@ -18,6 +18,7 @@ namespace pizzaProject.Controllers
         {
             return _order.Get();
         }
+<<<<<<< HEAD
         [HttpPost]
         public ActionResult Post(Order o)
         {
@@ -25,6 +26,26 @@ namespace pizzaProject.Controllers
             o.Id=orderList.Last<Order>().Id+1;
              _order.AddOrder(o);
              return Ok();
+=======
+        [HttpPut]
+        public void Put(Order o)
+        {
+            // var orderList=_order.Get();
+            // o.Id=orderList.Last<Order>().Id+1;
+            _order.UpDateOrder(o);
+        }
+        [HttpPost("postItem/{idOrder}/{idPizza}/{amount}")]
+        public void PostItem(int idOrder,int idPizza,int amount)
+        {
+            var orderList=_order.Get();
+            if(orderList.Last<Order>().Id<idOrder)
+            {
+                var o=new Order();
+                o.Id=orderList.Last<Order>().Id+1;
+                _order.AddOrder(o); 
+            }
+             _order.AddPizzaToOrder(idOrder,idPizza,amount);
+>>>>>>> eedbffc84a78c52ea3e8e84ba588bb03f53ed8e2
         }
         // [HttpPost("postItem/{idPizza}/{amount}")]
         // public void PostItem(int idPizza,int amount)

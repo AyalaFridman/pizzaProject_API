@@ -81,10 +81,10 @@ namespace ClassServices
         //     await Task.Delay(5000);
         //     return "התשלום בוצע בהצלחה";
         // }
-        public void SendingInvoice(string mail)
-        {
-            string path=Path.Combine(Environment.CurrentDirectory, "Mail", '${mail}.json');
-        }
+        // public void SendingInvoice(string mail)
+        // {
+        //     string path=Path.Combine(Environment.CurrentDirectory, "Mail", '${mail}.json');
+        // }
 
     }
 }
