@@ -32,7 +32,7 @@ namespace ClassServices
         //      _rw.UpDate<Order>(Orderes,path);
         //     System.Console.WriteLine(Orderes.Count);
         // }
-        public void AddOrder(Order o)
+        public async void AddOrder(Order o)
         {
             var pathP=Path.Combine(Environment.CurrentDirectory, "File", "pizza.json");
             var pizzaList=_rw.Get<Pizza>(pathP);
@@ -42,12 +42,19 @@ namespace ClassServices
                {
                 if(p.Id==o.Items[i])
                 {
-                    o.TotalAmount+=(p.Price*o.AmountItems[i]);
+                    o.TotalAmount+=(p.Price*o.AmountItems[i]);                   
+                }
+
                 }
                }
-            }
-        o.Date=date.Now;
+            
+        o.Date=this.Date;
          _rw.AddItem<Order>(o,path);
+         Task<Order> t=payment(o);
+         makingPizza();
+         Order ord=await t;
+         SendingInvoice(ord);
+        //  this.SendingInvoice();
         }
         // public void AddPizzaToOrder(int idOrder,int idPizza,int amount)
         // {
@@ -76,16 +83,26 @@ namespace ClassServices
         //         }
         //        }
         // }
-        // public async string payment(PaymentDetails paymentDetails)
-        // {
-        //     await Task.Delay(5000);
-        //     return "התשלום בוצע בהצלחה";
-        // }
-        public void SendingInvoice(string mail)
+        public async Task<Order> payment(Order o)
         {
-            string path=Path.Combine(Environment.CurrentDirectory, "Mail", '${mail}.json');
+            await Task.Delay(5000);
+             System.Console.WriteLine( "התשלום בוצע בהצלחה");
+            // string path=Path.Combine(Environment.CurrentDirectory, "File", "payment.txt");
+            // string paymentDetailsString=JsonSerializer.Serialize(paymentDetails);
+            // _rw.Write(paymentDetailsString,path);
+            return o;
+        }
+        public void makingPizza ()
+        {
+             System.Console.WriteLine( "the pizza is complited");
+        }
+        public void SendingInvoice(Order o)
+        {
+            System.Console.WriteLine("SendingInvoice");
+            string path=Path.Combine(Environment.CurrentDirectory, "Mail", "mail.json");
+            string orderString=JsonSerializer.Serialize(o);
+            _rw.Write(orderString,path);
         }
 
     }
 }
-

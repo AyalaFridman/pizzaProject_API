@@ -7,18 +7,17 @@ using System.Text.Json.Serialization;
 namespace FileService;
 public class ReadAndWrite :IFileService
 {
-   //  public string filePath { get; set; }
     
     public ReadAndWrite()
     {
-      //   this.filePath = Path.Combine(Environment.CurrentDirectory, "File", "myFile.json");
     }
     
     public void Write(string message,string path)
     {
+      
        if (File.Exists(path))
         {
-            File.WriteAllText(path ,$" {message}");
+            File.WriteAllText(path ,$" {message}       ");
         }
     }
  public void AddItem<T>(T item,string path)

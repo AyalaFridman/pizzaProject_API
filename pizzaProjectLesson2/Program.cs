@@ -1,33 +1,15 @@
 using ClassInterface;
 using ClassServices;
-using ClassModels;
 using FileService;
-using pizzaProject.Middleware;
 using LoginService;
 using pizzaProject.Extensions;
 
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-static async Task<string> payment(PaymentDetails paymentDetails)
-{
-    await Task.Delay(5000);
-    return "התשלום בוצע בהצלחה";
-}
-
-
-
-
-
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -85,6 +67,11 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+    app.UseExceptionHandler("/error-development");
+}
+else
+{
+    app.UseExceptionHandler("/eror");
 }
 
 app.UseHttpsRedirection();

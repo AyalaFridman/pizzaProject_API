@@ -305,14 +305,15 @@ function createOrder()
     .then((response) => response.text())
     .then((result)=>{
         if(result.includes("400")){
-            alert("faild to add!!")
-            Id++;
+            alert("faild to add!!");
         }
         else{
             alert("wowwwwwwwwwwwwwwwwwwwwwwww");
         }
     })
     .catch(err=>{console.log(err)})
+     pizzasId=[];
+     AmountItems=[];
 }
 // function addPizza()
 // {
@@ -346,5 +347,9 @@ function addPizza()
    let amount = document.getElementById("amount").value; 
     pizzasId[pizzasId.length]=idPizza;
     AmountItems[AmountItems.length]=amount;
+    if(idPizza==3)
+    {
+        alert("הזמנת את הפיצה הכי טעימה, בתאבון🍕😂")
+    }
 }
 

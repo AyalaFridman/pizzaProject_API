@@ -437,3 +437,4 @@ D:\שנה ב\webapi\pizzaProject_API\pizzaProjectLesson2\obj\Debug\net6.0\pizzaP
 D:\שנה ב\webapi\pizzaProject_API\pizzaProjectLesson2\obj\Debug\net6.0\ref\pizzaProject.dll
 D:\שנה ב\webapi\pizzaProject_API\pizzaProjectLesson2\bin\Debug\net6.0\File\order.json
 D:\שנה ב\webapi\pizzaProject_API\pizzaProjectLesson2\bin\Debug\net6.0\File\pizza.json
+D:\שנה ב\webapi\pizzaProject_API\pizzaProjectLesson2\bin\Debug\net6.0\File\mail.json

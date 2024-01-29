@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kMe+4VoTy5sFFk6K+haM3j13Ol27UHoAYCsdyGwspLs=",
+  "Hash": "IghYzLZguvZstMLjYA1sBPRToCBreDIy9XO++PGXw+o=",
   "Source": "pizzaProject",
   "BasePath": "_content/pizzaProject",
   "Mode": "Default",
@@ -780,23 +780,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\login.js"
-    },
-    {
-      "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\order.html",
-      "SourceId": "pizzaProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\",
-      "BasePath": "_content/pizzaProject",
-      "RelativePath": "order.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\order.html"
     },
     {
       "Identity": "D:\\שנה ב\\webapi\\pizzaProject_API\\pizzaProjectLesson2\\wwwroot\\pizza.html",

@@ -13,9 +13,5 @@ namespace ClassModels
         public List<int> AmountItems{get; set;}
         public PaymentDetails CreditPaymentDetails{get;set;}
     }
-        // public Order()
-        // {
-        //     Items = new List<Pizza>();
-        // }
 
 }

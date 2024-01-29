@@ -20,7 +20,7 @@ namespace pizzaProject.Controllers
             var token=_ids.Login(name,password);
             if(token==null)
             {
-                return Unauthorized();
+               throw new UnauthorizedAccessException("Unauthorized");
             }
 
             return new OkObjectResult(new JwtSecurityTokenHandler().WriteToken(token));
