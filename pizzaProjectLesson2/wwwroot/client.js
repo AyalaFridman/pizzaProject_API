@@ -191,7 +191,13 @@ workerList.forEach(Worker=>{
     var token=sessionStorage.getItem("token");
     myHeaders.append("Authorization","Bearer "+token);
     myHeaders.append("Content-Type", "application/json");
-    let json = `{ \"name\": \" ${name}\", \"password\": \ ${password}\,\"role\": \ ${role}\}`;
+    let data={
+        "id": 0,
+        "name": name,
+        "password": password,
+        "role": role
+      }
+    let json = JSON.stringify(data);
     var requestOptions = {
         method: "POST",
         headers: myHeaders,
@@ -202,8 +208,7 @@ workerList.forEach(Worker=>{
     .then((response) => response.text())
     .then((result)=>{
         if(result.includes("400")){
-            alert("faild to add!!")
-            Id++;
+            alert("faild to add!!");
         }
         else{
             alert("wowwwwwwwwwwwwwwwwwwwwwwww");
@@ -252,13 +257,13 @@ function fillOrderList(orderList){
     orderbody.innerHTML="";
     orderhead.innerHTML=
     `<tr>
-    <th>phone</th>
+    <th>email</th>
     <th>date</th>
     <th>total amount</th>
 </tr>`;
 orderList.forEach(Order=>{
     orderbody.innerHTML+=`<tr>
-        <td>${Order.phone}</td>
+        <td>${Order.email}</td>
         <td>${Order.date}</td>
         <td>${Order.totalAmount}</td>
         </tr>`       
@@ -268,7 +273,7 @@ let pizzasId=[];
 let AmountItems=[];
 function createOrder()
 {
-    let phone=document.getElementById("phone").value;
+    let email=document.getElementById("email").value;
     let numOfCredit = document.getElementById("numOfCredit").value;
     let validity = document.getElementById("validity").value;
     let threeDigits = document.getElementById("threeDigits").value;
@@ -276,7 +281,7 @@ function createOrder()
     myHeaders.append("Content-Type", "application/json");
     let data={
         "id": 0,
-        "phone":phone ,
+        "email":email ,
         "date": "2024-01-28T18:45:37.219Z",
         "totalAmount": 0,
         "items":pizzasId ,
@@ -332,6 +337,7 @@ function addPizza()
    let amount = document.getElementById("amount").value; 
     pizzasId[pizzasId.length]=idPizza;
     AmountItems[AmountItems.length]=amount;
+    alert("הפיצה התוספה בצלחה להזמנה");
     if(idPizza==3)
     {
         alert("הזמנת את הפיצה הכי טעימה, בתאבון🍕😂");

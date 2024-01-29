@@ -83,7 +83,6 @@
     <br>
         </tbody>
     </table>
-    <h3>בחר פיצה וכתוב לפי מספר האי די </h3>
     <button type="button" onclick="getAllOrder()">All</button>
     <br>
     <label for="deleteByIdOrder">
@@ -91,20 +90,21 @@
     </label>
     <button onclick="deleteByIdOrder()">delete by id</button>
     <br>
-    <label for="phone"> phone</label>
-    <input type="tel" id="phone">
+<h2>הכנס פיצה וכמות להוספה להזמנה</h2>
     <div id="pizzas">
         <input type="number" placeholder="מספר פיצה" id="idOfPizza">
         <input type="number" placeholder="כמות" id="amount">
-<button onclick="addPizza()"></button>
     </div>
-    <!-- <p id="totalAmount">0</p> -->
+    <button onclick="addPizza()"></button>
 
+<form >
+<input type="email" id="email" placeholder="email" required>
     <h1>:פרטי תשלום</h1>
-<input type="text" placeholder="מספר כרטיס" id="numOfCredit">
-<input type="datetime" placeholder="תוקף" id="validity">
-<input type="number" placeholder="3 ספרות בגב הכרטיס" id="threeDigits">
+<input type="text" placeholder="מספר כרטיס" id="numOfCredit" required>
+<input type="datetime" placeholder="תוקף" id="validity" required>
+<input type="number" placeholder="3 ספרות בגב הכרטיס" id="threeDigits" required>
 <button onclick="createOrder()">to order</button>
+</form>
 </fieldset>
 <a href="./index.html">login</a>
 </body>

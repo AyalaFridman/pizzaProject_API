@@ -9,7 +9,6 @@ namespace ClassServices
         string path=Path.Combine(Environment.CurrentDirectory, "File", "workers.json");
         public DateTime Date { get; set; }
         public List<Worker> Workers { get; set; }
-        static int id = 1;
         public WorkerService(IFileService rw)
         {
             this.Date=DateTime.Now;
@@ -24,8 +23,6 @@ namespace ClassServices
         }
         public void AddWorker(Worker w)
         {
-            id++;
-            w.Id=id;
              _rw.AddItem<Worker>(w,path);
         }
         public List<Worker>? Delete(int id)
