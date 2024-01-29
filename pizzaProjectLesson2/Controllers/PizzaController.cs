@@ -7,7 +7,6 @@ using Microsoft.AspNetCore.Authorization;
 namespace pizzaProject.Controllers{
     [ApiController]
     [Route("[controller]")]
-    [Authorize(Policy="Worker")]
     public class PizzaController : ControllerBase
     {
         private IPizza _pizza;
@@ -33,6 +32,7 @@ namespace pizzaProject.Controllers{
 
         }
         [HttpPost]
+        [Authorize(Policy="Worker")]
         public ActionResult Post(Pizza p)
         {
             var pizzaList=_pizza.Get();
@@ -42,6 +42,7 @@ namespace pizzaProject.Controllers{
              return Ok();
         }
         [HttpPut("{id}")]
+        [Authorize(Policy="Worker")]
         public ActionResult Put(int id,Pizza p)
         {
             var pizza= _pizza.UpDate(id, p);
@@ -52,6 +53,7 @@ namespace pizzaProject.Controllers{
             return Ok();
         }
         [HttpDelete("Delete/{id}")]
+        [Authorize(Policy="Worker")]
         public ActionResult Delete(int id)
         {
             _pizza.Delete(id);

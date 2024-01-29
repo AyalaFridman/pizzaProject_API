@@ -1,1 +1,1 @@
- {"Id":7,"Phone":"string","Date":"2024-01-29T19:26:39.5648605+02:00","TotalAmount":1075,"Items":[1,2,3],"AmountItems":[1,1,1],"CreditPaymentDetails":{"NumOfCredit":"string","Validity":"string","Digits":0}}       
+ {"Id":2,"Phone":"0556702897","Date":"2024-01-29T22:58:12.2775773+02:00","TotalAmount":1000,"Items":[3],"AmountItems":[1],"CreditPaymentDetails":{"NumOfCredit":"2365987412","Validity":"05/08","Digits":258}}       

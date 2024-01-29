@@ -1,9 +1,9 @@
 let  basicUrl='https://localhost:7170/';
-let Id=3;
+// let Id=3;
 function getAllPizzas(){
     var myHeaders = new Headers();
-    var token=sessionStorage.getItem("token");
-    myHeaders.append("Authorization","Bearer "+token);
+    // var token=sessionStorage.getItem("token");
+    // myHeaders.append("Authorization","Bearer "+token);
     myHeaders.append("Content-Type", "application/json");
     var requestOptions = {
         method: "GET",
@@ -39,8 +39,8 @@ function fillPizzaList(pizzaList){
 function getById(){
     let id=document.getElementById("sendGetById").value;
     var myHeaders = new Headers();
-    var token=sessionStorage.getItem("token");
-    myHeaders.append("Authorization","Bearer "+token);
+    // var token=sessionStorage.getItem("token");
+    // myHeaders.append("Authorization","Bearer "+token);
     var requestOptions = {
         method: "GET",
         headers: myHeaders,
@@ -144,11 +144,6 @@ function deleteById(){
     .then((res) => res.json()) 
     .catch(err=>{console.log(err)})
 }
-function getLength(pizzaList){
-
-return pizzaList.Last().Id+1;
-
-}
 
 //worker
 let  basicUrlWorker='https://localhost:7170/Worker';
@@ -238,8 +233,8 @@ function deleteByIdWorker(){
 //order
 function getAllOrder(){
     var myHeaders = new Headers();
-    // var token=sessionStorage.getItem("token");
-    // myHeaders.append("Authorization","Bearer "+token);
+    var token=sessionStorage.getItem("token");
+    myHeaders.append("Authorization","Bearer "+token);
     myHeaders.append("Content-Type", "application/json");
     var requestOptions = {
         method: "GET",
@@ -278,8 +273,6 @@ function createOrder()
     let validity = document.getElementById("validity").value;
     let threeDigits = document.getElementById("threeDigits").value;
     var myHeaders = new Headers();
-    // var token=sessionStorage.getItem("token");
-    // myHeaders.append("Authorization","Bearer "+token);
     myHeaders.append("Content-Type", "application/json");
     let data={
         "id": 0,
@@ -315,31 +308,23 @@ function createOrder()
      pizzasId=[];
      AmountItems=[];
 }
-// function addPizza()
-// {
-//     let idPizza=document.getElementById("idOfPizza").value;
-//     let amount = document.getElementById("amount").value;
-//     var myHeaders=new Headers();
-//     myHeaders.append("Content-Type", "application/json");
-//     let json = `{ \"idOfPizza\": \" ${idPizza}\", \"amount\": \ ${amount}}`;
-//     var requestOptions = {
-//         method: "POST",
-//         headers: myHeaders,
-//         body: json,
-//         redirect: "follow",
-//     };
-//     fetch(`${basicUrl}Order/postItem/${idPizza}/${amount}`,requestOptions)
-//     .then((response) => response.text())
-//     .then((result)=>{
-//         if(result.includes("400")){
-//             alert(`faild to add!! ${result}`);
-//         }
-//         else{
-//             alert("wowwwwwwwwwwwwwwwwwwwwwwww");
-//         }
-//     })
-//     .catch(err=>{console.log(err)})
-// }
+function deleteByIdOrder(){
+    let id=document.getElementById("deleteByIdOrder").value;
+    var myHeaders = new Headers();
+    var token=sessionStorage.getItem("token");
+    myHeaders.append("Authorization","Bearer "+token);
+    myHeaders.append("Content-Type", "application/json");
+
+    var requestOptions = {
+        method: "DELETE",
+        headers: myHeaders,
+        redirect: "follow",
+    };
+
+    fetch(`${basicUrl}Order/Delete/${id}`,requestOptions)
+    .then((res) => res.json()) 
+    .catch(err=>{console.log(err)})
+}
 
 function addPizza()
 {
@@ -349,7 +334,7 @@ function addPizza()
     AmountItems[AmountItems.length]=amount;
     if(idPizza==3)
     {
-        alert("הזמנת את הפיצה הכי טעימה, בתאבון🍕😂")
+        alert("הזמנת את הפיצה הכי טעימה, בתאבון🍕😂");
     }
 }
 
