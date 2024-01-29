@@ -24,6 +24,19 @@ namespace ClassServices
             Orderes=_rw.Get<Order>(path);
             return Orderes;
         }
+        public List<Order>? Delete(int id)
+        {
+            foreach (var order in Orderes)
+            {
+                if (order.Id == id)
+                {
+                    Orderes.Remove(order);
+                    _rw.UpDate(Orderes,path);
+                    return Orderes;
+                }
+            }
+            return null;
+        }
         // public void UpDateOrder(Order o)
         // {
         //     o.Date=this.Date;
@@ -36,8 +49,8 @@ namespace ClassServices
         {
             var pathP=Path.Combine(Environment.CurrentDirectory, "File", "pizza.json");
             var pizzaList=_rw.Get<Pizza>(pathP);
-            System.Console.WriteLine(o.Items.Last());
-            for(var i=0;i<o.Items.Last();i++){
+            System.Console.WriteLine(o.Items.Count);
+            for(var i=0;i<o.Items.Count;i++){
              foreach (var p in pizzaList)
                {
                 if(p.Id==o.Items[i])
@@ -47,42 +60,12 @@ namespace ClassServices
 
                 }
                }
-            
-        o.Date=this.Date;
          _rw.AddItem<Order>(o,path);
          Task<Order> t=payment(o);
          makingPizza();
          Order ord=await t;
          SendingInvoice(ord);
-        //  this.SendingInvoice();
         }
-        // public void AddPizzaToOrder(int idOrder,int idPizza,int amount)
-        // {
-        //     var pathP=Path.Combine(Environment.CurrentDirectory, "File", "pizza.json");
-        //      System.Console.WriteLine(pathP);
-        //     var pizzaList=_rw.Get<Pizza>(pathP);
-        //      System.Console.WriteLine(pizzaList);
-        //      foreach (var p in pizzaList)
-        //        {
-        //         if(p.Id==idPizza)
-        //         {
-        //             if(Orderes[idOrder].Items==null)
-        //             {
-        //                 Orderes[idOrder].Items=new List<int>();
-        //             }
-        //             if(Orderes[idOrder].AmountItems==null)
-        //             {
-        //                 Orderes[idOrder].AmountItems= new List<int>();
-        //             }
-        //            System.Console.WriteLine(p);
-        //            Orderes[idOrder].Items.Add(idPizza);
-        //           Orderes[idOrder].AmountItems.Add(amount);
-        //           Orderes[idOrder].TotalAmount+=(p.Price*amount);
-        //            System.Console.WriteLine( Orderes[idOrder].TotalAmount);
-        //           _rw.UpDate(Orderes,path);
-        //         }
-        //        }
-        // }
         public async Task<Order> payment(Order o)
         {
             await Task.Delay(5000);

@@ -7,6 +7,8 @@ namespace ClassInterface
         // public void UpDateOrder(Order o);
         public List<Order> Get();
         public void AddOrder(Order o);
+        List<Order>? Delete(int id) ;
+
         // public void AddPizzaToOrder(int idOrder,int idPizza,int amount);
 
     }
