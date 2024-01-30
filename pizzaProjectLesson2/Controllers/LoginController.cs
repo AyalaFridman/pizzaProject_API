@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using  LoginService;
 using System.IdentityModel.Tokens.Jwt;
+using System.ComponentModel.DataAnnotations;
 namespace pizzaProject.Controllers
 {
     [ApiController]
@@ -15,7 +16,7 @@ namespace pizzaProject.Controllers
             _ids = identityService;
         }
         [HttpPost("{name}/{password}")]
-        public ActionResult<string> Login(string name,string password)
+        public ActionResult<string> Login([StringLength(10)]string name,[Required]string password)
         {
             var token=_ids.Login(name,password);
             if(token==null)
