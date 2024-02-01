@@ -82,7 +82,7 @@ namespace ClassServices
         public void SendingInvoice(Order o)
         {
             System.Console.WriteLine("SendingInvoice");
-            string path=Path.Combine(Environment.CurrentDirectory, "Mail", "mail.json");
+            string path=Path.Combine(Environment.CurrentDirectory, "Mail", o.Email+".json");
             string orderString=JsonSerializer.Serialize(o);
             _rw.Write(orderString,path);
         }

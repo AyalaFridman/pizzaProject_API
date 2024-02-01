@@ -14,11 +14,7 @@ public class ReadAndWrite :IFileService
     
     public void Write(string message,string path)
     {
-      
-       if (File.Exists(path))
-        {
             File.WriteAllText(path ,$" {message}       ");
-        }
     }
  public void AddItem<T>(T item,string path)
  {
@@ -32,6 +28,9 @@ public class ReadAndWrite :IFileService
  {
    string jsonFp=File.ReadAllText(path);
    var tList=JsonSerializer.Deserialize<List<T>>(jsonFp);
+   if (!File.Exists(path)) {
+      return default(List<T>);
+   }
     if(tList!=null){
        return tList;
     }
